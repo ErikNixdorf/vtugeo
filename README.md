@@ -18,6 +18,7 @@ vtugeo is a small python tool which convert  2D (x-y) vtu unstructured grids to 
 
 ## Limitations
 * io stream problems of meshio. I suggest to switch around between "vtu-ascii" and "vtu-binary"
+* Currently, only scalar fields are supported
 
 
 
